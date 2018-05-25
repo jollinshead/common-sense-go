@@ -2,5 +2,5 @@
 A Go library for commonly used and/or obvious Go code.
 
 ## Packages
-### if error
+### iferror
 Wrapper functions around `if` `error` checks
